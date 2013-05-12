@@ -1,0 +1,13 @@
+#header_schriftzug
+{
+	display: inline;
+	position: absolute;
+	margin-left: 20px;
+	text-align: center;
+}
+
+#htl-logo
+ {
+	 height:50px; 
+	 width:50px;
+ }
